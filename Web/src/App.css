@@ -1,0 +1,26 @@
+/* === BASE HEADING === */ 
+
+h1 {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    font-family: Georgia, serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: #080808;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+
+.chart1 {
+    padding: 0;
+    margin-right: 50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
